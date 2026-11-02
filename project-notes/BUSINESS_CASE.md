@@ -4,10 +4,10 @@ Your prototype shows *what* the product looks like. This document explains *why*
 
 ## 1. The idea
 
-- **Customer:** Who exactly is it for?
-- **Problem:** What problem do they have today, and how do they solve it now?
-- **Solution:** What does your product do differently or better?
-- **Revenue:** How does the company make money?
+- **Customer:** Busy plant owners, especially people with several indoor plants and irregular schedules.
+- **Problem:** Plant owners forget watering dates or rely on memory, notes, and individual calendar reminders. This is inconsistent and does not prioritize plants by urgency.
+- **Solution:** Sproutly combines watering schedules, locations, and priority levels in one dashboard. It clearly sorts plants that need water first and lets users mark a plant as watered.
+- **Revenue:** The prototype demonstrates two options: unobtrusive relevant ads in the free plan and a $4/month premium plan with unlimited plants and an ad-free experience. Real deployment would test willingness to pay and compare ad revenue with subscription revenue before choosing a primary model.
 
 ## 2. Where IT creates value
 

@@ -10,17 +10,15 @@ Keep this up to date as you go — a few lines per work session is enough. It's 
 
 ## Work sessions
 
-Copy this block for each session.
+### Session — 2026-11-02 — driver: Copilot
 
-### Session — [date] — driver: [first name]
-
-- **Goal for this session:**
+- **Goal for this session:** Build a working plant watering dashboard and test a freemium monetization idea.
 - **Key prompts we gave Copilot** (paste the important ones):
-  1.
-  2.
-- **What worked:**
-- **What broke, and how we fixed it:**
-- **Committed?** yes / no — commit message:
+  1. Create an app that helps users add and remove plants, prioritize watering, and store data locally.
+  2. Add an example ad and a premium pricing concept without real payments or tracking.
+- **What worked:** The dashboard, add/remove actions, watering updates, priority sorting, filters, search, and pricing view are implemented with browser storage.
+- **What broke, and how we fixed it:** A starter-template app-script replacement initially missed, then was replaced with Sproutly-specific logic; JavaScript syntax and local page serving were checked afterward.
+- **Committed?** no / not requested.
 
 ---
 
